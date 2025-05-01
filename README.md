@@ -50,3 +50,18 @@ Create a .env file in the root directory and add your Firebase configuration.
 Start the Development Server
 
 npm start
+
+
+Usage:
+
+Open your web browser and go to: http://localhost:3000
+
+.Sign up or log in to access the Inventory Management System
+
+.Use the interface to:
+
+.Add, edit, and delete sales records
+
+.Generate invoices
+
+.Manage your inventory efficiently
