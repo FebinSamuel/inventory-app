@@ -26,3 +26,27 @@ Authentication: Handling user sign-up and login securely.
 Firestore: Storing and managing inventory and sales data in real time.
 
 Make sure you have a Firebase project configured with Firestore and Authentication enabled before running the app.
+
+
+
+Getting Started:
+
+Follow these steps to set up the project on your local machine:
+
+Prerequisites
+
+Node.js and npm installed
+A Firebase project set up with Firestore and Authentication
+Installation
+
+git clone https://github.com/your-username/inventory-management-system.git
+
+cd inventory-management-system
+
+npm install
+
+Create a .env file in the root directory and add your Firebase configuration.
+
+Start the Development Server
+
+npm start
